@@ -1,0 +1,8 @@
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\obj\Debug\02变量存在的意义.csproj.AssemblyReference.cache
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\obj\Debug\02变量存在的意义.csproj.SuggestedBindingRedirects.cache
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\obj\Debug\02变量存在的意义.csproj.CoreCompileInputs.cache
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\bin\Debug\02变量存在的意义.exe.config
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\bin\Debug\02变量存在的意义.exe
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\bin\Debug\02变量存在的意义.pdb
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\obj\Debug\02变量存在的意义.exe
+E:\C#入门基础\CSharpTeacher\02变量存在的意义\obj\Debug\02变量存在的意义.pdb
