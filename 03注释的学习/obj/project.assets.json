@@ -17,11 +17,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
+      "projectUniqueName": "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
       "projectName": "03注释的学习",
-      "projectPath": "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
+      "projectPath": "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
       "packagesPath": "C:\\Users\\Grani\\.nuget\\packages\\",
-      "outputPath": "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\obj\\",
+      "outputPath": "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\DevExpress\\Offline Packages",
