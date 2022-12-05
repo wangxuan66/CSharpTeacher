@@ -1,0 +1,8 @@
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\bin\Debug\不同数据类型运算.exe.config
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\bin\Debug\不同数据类型运算.exe
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\bin\Debug\不同数据类型运算.pdb
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\obj\Debug\不同数据类型运算.csproj.AssemblyReference.cache
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\obj\Debug\不同数据类型运算.csproj.SuggestedBindingRedirects.cache
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\obj\Debug\不同数据类型运算.csproj.CoreCompileInputs.cache
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\obj\Debug\不同数据类型运算.exe
+F:\C#入门基础\CSharpTeacher\不同数据类型运算\obj\Debug\不同数据类型运算.pdb

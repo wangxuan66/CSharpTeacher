@@ -1,0 +1,8 @@
+F:\C#入门基础\CSharpTeacher\04.四则运算\bin\Debug\04.四则运算.exe.config
+F:\C#入门基础\CSharpTeacher\04.四则运算\bin\Debug\04.四则运算.exe
+F:\C#入门基础\CSharpTeacher\04.四则运算\bin\Debug\04.四则运算.pdb
+F:\C#入门基础\CSharpTeacher\04.四则运算\obj\Debug\04.四则运算.csproj.AssemblyReference.cache
+F:\C#入门基础\CSharpTeacher\04.四则运算\obj\Debug\04.四则运算.csproj.SuggestedBindingRedirects.cache
+F:\C#入门基础\CSharpTeacher\04.四则运算\obj\Debug\04.四则运算.csproj.CoreCompileInputs.cache
+F:\C#入门基础\CSharpTeacher\04.四则运算\obj\Debug\04.四则运算.exe
+F:\C#入门基础\CSharpTeacher\04.四则运算\obj\Debug\04.四则运算.pdb
