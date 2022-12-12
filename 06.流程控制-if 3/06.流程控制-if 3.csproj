@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB48D8B3-CAE7-4A63-81FF-B701CEC67973}</ProjectGuid>
+    <ProjectGuid>{402B9FE7-146E-4C6A-A7AC-404F01176446}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.流程控制_if</RootNamespace>
-    <AssemblyName>06.流程控制-if</AssemblyName>
+    <RootNamespace>_06.流程控制_if_3</RootNamespace>
+    <AssemblyName>06.流程控制-if 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
