@@ -1,28 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj": {}
+    "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj": {}
   },
   "projects": {
-    "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj": {
+    "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
+        "projectUniqueName": "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
         "projectName": "03注释的学习",
-        "projectPath": "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
+        "projectPath": "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\03注释的学习.csproj",
         "packagesPath": "C:\\Users\\Grani\\.nuget\\packages\\",
-        "outputPath": "F:\\C#入门基础\\CSharpTeacher\\03注释的学习\\obj\\",
+        "outputPath": "E:\\C#入门基础\\CSharpTeacher\\03注释的学习\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\DevExpress\\Offline Packages",
-          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Grani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,8 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
-          "D:\\DevExpress\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
