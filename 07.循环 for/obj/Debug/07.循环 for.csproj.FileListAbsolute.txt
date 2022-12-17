@@ -1,0 +1,8 @@
+D:\Github同步\CSharpTeacher\07.循环 for\bin\Debug\07.循环 for.exe.config
+D:\Github同步\CSharpTeacher\07.循环 for\bin\Debug\07.循环 for.exe
+D:\Github同步\CSharpTeacher\07.循环 for\bin\Debug\07.循环 for.pdb
+D:\Github同步\CSharpTeacher\07.循环 for\obj\Debug\07.循环 for.csproj.AssemblyReference.cache
+D:\Github同步\CSharpTeacher\07.循环 for\obj\Debug\07.循环 for.csproj.SuggestedBindingRedirects.cache
+D:\Github同步\CSharpTeacher\07.循环 for\obj\Debug\07.循环 for.csproj.CoreCompileInputs.cache
+D:\Github同步\CSharpTeacher\07.循环 for\obj\Debug\07.循环 for.exe
+D:\Github同步\CSharpTeacher\07.循环 for\obj\Debug\07.循环 for.pdb

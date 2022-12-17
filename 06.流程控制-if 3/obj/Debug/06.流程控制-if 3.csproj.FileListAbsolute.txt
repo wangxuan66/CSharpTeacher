@@ -6,3 +6,11 @@ E:\C#入门基础\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-i
 E:\C#入门基础\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.csproj.CoreCompileInputs.cache
 E:\C#入门基础\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.exe
 E:\C#入门基础\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.pdb
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\bin\Debug\06.流程控制-if 3.exe.config
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\bin\Debug\06.流程控制-if 3.exe
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\bin\Debug\06.流程控制-if 3.pdb
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.csproj.AssemblyReference.cache
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.csproj.SuggestedBindingRedirects.cache
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.csproj.CoreCompileInputs.cache
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.exe
+D:\Github同步\CSharpTeacher\06.流程控制-if 3\obj\Debug\06.流程控制-if 3.pdb
