@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.其他运算符", "..\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.方法的编写与使用", "..\11.方法的编写与使用\11.方法的编写与使用.csproj", "{16EDF4C7-B107-4A79-987B-57E9F8565371}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.抽取方法", "..\12.抽取方法\12.抽取方法.csproj", "{ADC72151-00F9-4131-B4C1-843CD5ECA649}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{16EDF4C7-B107-4A79-987B-57E9F8565371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EDF4C7-B107-4A79-987B-57E9F8565371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EDF4C7-B107-4A79-987B-57E9F8565371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC72151-00F9-4131-B4C1-843CD5ECA649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC72151-00F9-4131-B4C1-843CD5ECA649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC72151-00F9-4131-B4C1-843CD5ECA649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC72151-00F9-4131-B4C1-843CD5ECA649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
