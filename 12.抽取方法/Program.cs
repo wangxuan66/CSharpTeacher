@@ -9,7 +9,7 @@ namespace _12.抽取方法
 {
     internal class Program
     {
-         void Main(string[] args)
+        static void Main(string[] args)
         {
             //简单的输出
             string name = "Element";
