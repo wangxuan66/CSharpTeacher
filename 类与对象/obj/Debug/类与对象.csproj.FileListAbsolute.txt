@@ -1,0 +1,8 @@
+D:\Github同步\CSharpTeacher\类与对象\bin\Debug\类与对象.exe.config
+D:\Github同步\CSharpTeacher\类与对象\bin\Debug\类与对象.exe
+D:\Github同步\CSharpTeacher\类与对象\bin\Debug\类与对象.pdb
+D:\Github同步\CSharpTeacher\类与对象\obj\Debug\类与对象.csproj.AssemblyReference.cache
+D:\Github同步\CSharpTeacher\类与对象\obj\Debug\类与对象.csproj.SuggestedBindingRedirects.cache
+D:\Github同步\CSharpTeacher\类与对象\obj\Debug\类与对象.csproj.CoreCompileInputs.cache
+D:\Github同步\CSharpTeacher\类与对象\obj\Debug\类与对象.exe
+D:\Github同步\CSharpTeacher\类与对象\obj\Debug\类与对象.pdb

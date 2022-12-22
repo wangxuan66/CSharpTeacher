@@ -1,0 +1,8 @@
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.exe.config
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.exe
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\bin\Debug\13.变量和方法在内存是如何操作的.pdb
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.AssemblyReference.cache
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.SuggestedBindingRedirects.cache
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.csproj.CoreCompileInputs.cache
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.exe
+D:\Github同步\CSharpTeacher\13.变量和方法在内存是如何操作的\obj\Debug\13.变量和方法在内存是如何操作的.pdb
