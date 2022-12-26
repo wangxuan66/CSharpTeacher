@@ -19,11 +19,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.变量和方法在内存
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.解决方案与项目的关系", "..\14.解决方案与项目的关系\14.解决方案与项目的关系.csproj", "{A4926518-DD41-4559-9EC8-9FA1274DF2CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.解决方案与项目的关系的类库", "..\14.解决方案与项目的关系的类库\14.解决方案与项目的关系的类库.csproj", "{C314653E-5F6B-4B47-981D-02657B187824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.解决方案与项目的关系的类库", "..\14.解决方案与项目的关系的类库\14.解决方案与项目的关系的类库.csproj", "{C314653E-5F6B-4B47-981D-02657B187824}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.类与对象", "..\类与对象\15.类与对象.csproj", "{5ACED8C3-97ED-42CC-ADAD-6536EF51EA9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.学生对象练手", "..\16.学生对象练手\16.学生对象练手.csproj", "{45E9B058-2ED9-4116-A5F2-96883456C3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.对象的属性", "..\17.对象的属性\17.对象的属性.csproj", "{142B6DDB-E0A4-4959-B7C7-E22744C5D051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.this关键字", "..\18.this关键字\18.this关键字.csproj", "{C78B6B56-DC6C-4B43-9F22-826F4BA9E444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{45E9B058-2ED9-4116-A5F2-96883456C3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E9B058-2ED9-4116-A5F2-96883456C3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E9B058-2ED9-4116-A5F2-96883456C3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142B6DDB-E0A4-4959-B7C7-E22744C5D051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142B6DDB-E0A4-4959-B7C7-E22744C5D051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142B6DDB-E0A4-4959-B7C7-E22744C5D051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142B6DDB-E0A4-4959-B7C7-E22744C5D051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78B6B56-DC6C-4B43-9F22-826F4BA9E444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78B6B56-DC6C-4B43-9F22-826F4BA9E444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78B6B56-DC6C-4B43-9F22-826F4BA9E444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78B6B56-DC6C-4B43-9F22-826F4BA9E444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
