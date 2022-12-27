@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github同步\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj": {}
+    "D:\\GitHub\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj": {}
   },
   "projects": {
-    "D:\\Github同步\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj": {
+    "D:\\GitHub\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github同步\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj",
         "projectName": "14.解决方案与项目的关系的类库",
-        "projectPath": "D:\\Github同步\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj",
-        "packagesPath": "C:\\Users\\王军\\.nuget\\packages\\",
-        "outputPath": "D:\\Github同步\\CSharpTeacher\\14.解决方案与项目的关系的类库\\obj\\",
+        "projectPath": "D:\\GitHub\\CSharpTeacher\\14.解决方案与项目的关系的类库\\14.解决方案与项目的关系的类库.csproj",
+        "packagesPath": "C:\\Users\\22799\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\CSharpTeacher\\14.解决方案与项目的关系的类库\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\王军\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\22799\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

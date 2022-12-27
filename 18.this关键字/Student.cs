@@ -14,8 +14,6 @@ namespace _18.this关键字
         public void Intro() 
         {
             Console.WriteLine(this.StudentId);//这个this指的是由这个类创建出来的对象也就是是对象的studentid
-
-
         }
     }
 }
