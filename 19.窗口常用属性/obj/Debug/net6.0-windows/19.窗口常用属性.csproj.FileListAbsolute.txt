@@ -1,0 +1,17 @@
+D:\GitHub\CSharpTeacher\19.窗口常用属性\bin\Debug\net6.0-windows\19.窗口常用属性.exe
+D:\GitHub\CSharpTeacher\19.窗口常用属性\bin\Debug\net6.0-windows\19.窗口常用属性.deps.json
+D:\GitHub\CSharpTeacher\19.窗口常用属性\bin\Debug\net6.0-windows\19.窗口常用属性.runtimeconfig.json
+D:\GitHub\CSharpTeacher\19.窗口常用属性\bin\Debug\net6.0-windows\19.窗口常用属性.dll
+D:\GitHub\CSharpTeacher\19.窗口常用属性\bin\Debug\net6.0-windows\19.窗口常用属性.pdb
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.csproj.GenerateResource.cache
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.dll
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\refint\19.窗口常用属性.dll
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.pdb
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\19.窗口常用属性.genruntimeconfig.cache
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\ref\19.窗口常用属性.dll
+D:\GitHub\CSharpTeacher\19.窗口常用属性\obj\Debug\net6.0-windows\_19.窗口常用属性.Form1对象名称.resources

@@ -1,0 +1,17 @@
+D:\GitHub\CSharpTeacher\20.对象的封装\bin\Debug\net6.0-windows\20.对象的封装.exe
+D:\GitHub\CSharpTeacher\20.对象的封装\bin\Debug\net6.0-windows\20.对象的封装.deps.json
+D:\GitHub\CSharpTeacher\20.对象的封装\bin\Debug\net6.0-windows\20.对象的封装.runtimeconfig.json
+D:\GitHub\CSharpTeacher\20.对象的封装\bin\Debug\net6.0-windows\20.对象的封装.dll
+D:\GitHub\CSharpTeacher\20.对象的封装\bin\Debug\net6.0-windows\20.对象的封装.pdb
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\_20.对象的封装.Form1.resources
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.csproj.GenerateResource.cache
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.dll
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\refint\20.对象的封装.dll
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.pdb
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\20.对象的封装.genruntimeconfig.cache
+D:\GitHub\CSharpTeacher\20.对象的封装\obj\Debug\net6.0-windows\ref\20.对象的封装.dll
