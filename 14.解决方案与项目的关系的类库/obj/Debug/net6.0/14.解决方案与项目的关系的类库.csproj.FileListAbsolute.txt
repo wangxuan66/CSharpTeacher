@@ -1,0 +1,12 @@
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\bin\Debug\net6.0\14.解决方案与项目的关系的类库.deps.json
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\bin\Debug\net6.0\14.解决方案与项目的关系的类库.dll
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\bin\Debug\net6.0\14.解决方案与项目的关系的类库.pdb
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.dll
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\refint\14.解决方案与项目的关系的类库.dll
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\14.解决方案与项目的关系的类库.pdb
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系的类库\obj\Debug\net6.0\ref\14.解决方案与项目的关系的类库.dll

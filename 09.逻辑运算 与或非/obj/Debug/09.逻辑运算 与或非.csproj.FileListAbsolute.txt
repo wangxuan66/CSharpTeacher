@@ -6,3 +6,11 @@ D:\Github同步\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运�
 D:\Github同步\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.csproj.CoreCompileInputs.cache
 D:\Github同步\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.exe
 D:\Github同步\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.pdb
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\bin\Debug\09.逻辑运算 与或非.exe.config
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\bin\Debug\09.逻辑运算 与或非.exe
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\bin\Debug\09.逻辑运算 与或非.pdb
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.exe
+D:\GitHub\CSharpTeacher\09.逻辑运算 与或非\obj\Debug\09.逻辑运算 与或非.pdb

@@ -1,0 +1,8 @@
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\bin\Debug\14.解决方案与项目的关系.exe.config
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\bin\Debug\14.解决方案与项目的关系.exe
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\bin\Debug\14.解决方案与项目的关系.pdb
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\obj\Debug\14.解决方案与项目的关系.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\obj\Debug\14.解决方案与项目的关系.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\obj\Debug\14.解决方案与项目的关系.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\obj\Debug\14.解决方案与项目的关系.exe
+D:\GitHub\CSharpTeacher\14.解决方案与项目的关系\obj\Debug\14.解决方案与项目的关系.pdb

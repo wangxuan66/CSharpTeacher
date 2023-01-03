@@ -6,3 +6,11 @@ D:\Github同步\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练
 D:\Github同步\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.csproj.CoreCompileInputs.cache
 D:\Github同步\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.exe
 D:\Github同步\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.pdb
+D:\GitHub\CSharpTeacher\16.学生对象练手\bin\Debug\16.学生对象练手.exe.config
+D:\GitHub\CSharpTeacher\16.学生对象练手\bin\Debug\16.学生对象练手.exe
+D:\GitHub\CSharpTeacher\16.学生对象练手\bin\Debug\16.学生对象练手.pdb
+D:\GitHub\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.exe
+D:\GitHub\CSharpTeacher\16.学生对象练手\obj\Debug\16.学生对象练手.pdb

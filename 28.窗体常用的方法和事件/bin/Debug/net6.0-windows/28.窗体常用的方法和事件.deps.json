@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "28.窗体常用的方法和事件/1.0.0": {
+        "runtime": {
+          "28.窗体常用的方法和事件.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "28.窗体常用的方法和事件/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

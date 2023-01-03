@@ -29,11 +29,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.对象的属性", "..\17
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.this关键字", "..\18.this关键字\18.this关键字.csproj", "{C78B6B56-DC6C-4B43-9F22-826F4BA9E444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.窗口常用属性", "..\19.窗口常用属性\19.窗口常用属性.csproj", "{E7C4BF77-9242-4CEC-9A9D-F343C67345FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.窗口常用属性", "..\19.窗口常用属性\19.窗口常用属性.csproj", "{E7C4BF77-9242-4CEC-9A9D-F343C67345FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.对象的封装", "..\20.对象的封装\20.对象的封装.csproj", "{06D52C3D-E16D-4505-A4DF-17493F9F70CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.对象的封装", "..\20.对象的封装\20.对象的封装.csproj", "{06D52C3D-E16D-4505-A4DF-17493F9F70CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.构造函数", "..\21.构造函数\21.构造函数.csproj", "{1EA5AED4-E506-40B6-8497-07D6A521EF7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.构造函数", "..\21.构造函数\21.构造函数.csproj", "{1EA5AED4-E506-40B6-8497-07D6A521EF7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.类的四大成员", "..\22.类的四大成员\22.类的四大成员.csproj", "{5E54A9A4-15D7-4F0E-8977-CD357F5C9F92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.访问类的四大成员", "..\23.访问类的四大成员\23.访问类的四大成员.csproj", "{3EBE5422-EBCC-45B8-B83C-BB311F262B0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.类成员的访问修饰符", "..\24.类成员的访问修饰符\24.类成员的访问修饰符.csproj", "{171F5F88-1A69-4DCF-9241-DB472EFACA80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.方法的重载", "..\25.方法的重载\25.方法的重载.csproj", "{0BFEA710-E57E-433C-9AD6-C449C8025948}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26.构造函数的重载", "..\26.构造函数的重载\26.构造函数的重载.csproj", "{DC0E5D06-CF4E-41CE-833D-70C9E0CC8178}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.窗口控件常用属性", "..\27.窗口控件常用属性\27.窗口控件常用属性.csproj", "{6D12BA3B-16EE-444F-8F1B-BBA496A6B211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.窗体常用的方法和事件", "..\28.窗体常用的方法和事件\28.窗体常用的方法和事件.csproj", "{BEDD7CD7-A279-4D1A-A93F-5D35A8ED3120}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +119,34 @@ Global
 		{1EA5AED4-E506-40B6-8497-07D6A521EF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA5AED4-E506-40B6-8497-07D6A521EF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA5AED4-E506-40B6-8497-07D6A521EF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E54A9A4-15D7-4F0E-8977-CD357F5C9F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E54A9A4-15D7-4F0E-8977-CD357F5C9F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E54A9A4-15D7-4F0E-8977-CD357F5C9F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E54A9A4-15D7-4F0E-8977-CD357F5C9F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBE5422-EBCC-45B8-B83C-BB311F262B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBE5422-EBCC-45B8-B83C-BB311F262B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBE5422-EBCC-45B8-B83C-BB311F262B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBE5422-EBCC-45B8-B83C-BB311F262B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171F5F88-1A69-4DCF-9241-DB472EFACA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171F5F88-1A69-4DCF-9241-DB472EFACA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171F5F88-1A69-4DCF-9241-DB472EFACA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171F5F88-1A69-4DCF-9241-DB472EFACA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFEA710-E57E-433C-9AD6-C449C8025948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFEA710-E57E-433C-9AD6-C449C8025948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFEA710-E57E-433C-9AD6-C449C8025948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFEA710-E57E-433C-9AD6-C449C8025948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0E5D06-CF4E-41CE-833D-70C9E0CC8178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0E5D06-CF4E-41CE-833D-70C9E0CC8178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0E5D06-CF4E-41CE-833D-70C9E0CC8178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0E5D06-CF4E-41CE-833D-70C9E0CC8178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D12BA3B-16EE-444F-8F1B-BBA496A6B211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D12BA3B-16EE-444F-8F1B-BBA496A6B211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D12BA3B-16EE-444F-8F1B-BBA496A6B211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D12BA3B-16EE-444F-8F1B-BBA496A6B211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDD7CD7-A279-4D1A-A93F-5D35A8ED3120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDD7CD7-A279-4D1A-A93F-5D35A8ED3120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDD7CD7-A279-4D1A-A93F-5D35A8ED3120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDD7CD7-A279-4D1A-A93F-5D35A8ED3120}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

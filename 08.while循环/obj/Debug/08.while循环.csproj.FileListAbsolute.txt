@@ -6,3 +6,11 @@ D:\Github同步\CSharpTeacher\08.while循环\obj\Debug\08.while循环.csproj.Sug
 D:\Github同步\CSharpTeacher\08.while循环\obj\Debug\08.while循环.csproj.CoreCompileInputs.cache
 D:\Github同步\CSharpTeacher\08.while循环\obj\Debug\08.while循环.exe
 D:\Github同步\CSharpTeacher\08.while循环\obj\Debug\08.while循环.pdb
+D:\GitHub\CSharpTeacher\08.while循环\bin\Debug\08.while循环.exe.config
+D:\GitHub\CSharpTeacher\08.while循环\bin\Debug\08.while循环.exe
+D:\GitHub\CSharpTeacher\08.while循环\bin\Debug\08.while循环.pdb
+D:\GitHub\CSharpTeacher\08.while循环\obj\Debug\08.while循环.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\08.while循环\obj\Debug\08.while循环.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\08.while循环\obj\Debug\08.while循环.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\08.while循环\obj\Debug\08.while循环.exe
+D:\GitHub\CSharpTeacher\08.while循环\obj\Debug\08.while循环.pdb

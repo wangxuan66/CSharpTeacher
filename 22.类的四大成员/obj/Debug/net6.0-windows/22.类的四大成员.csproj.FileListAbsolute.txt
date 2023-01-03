@@ -1,0 +1,17 @@
+D:\GitHub\CSharpTeacher\22.类的四大成员\bin\Debug\net6.0-windows\22.类的四大成员.exe
+D:\GitHub\CSharpTeacher\22.类的四大成员\bin\Debug\net6.0-windows\22.类的四大成员.deps.json
+D:\GitHub\CSharpTeacher\22.类的四大成员\bin\Debug\net6.0-windows\22.类的四大成员.runtimeconfig.json
+D:\GitHub\CSharpTeacher\22.类的四大成员\bin\Debug\net6.0-windows\22.类的四大成员.dll
+D:\GitHub\CSharpTeacher\22.类的四大成员\bin\Debug\net6.0-windows\22.类的四大成员.pdb
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\_22.类的四大成员.Form1.resources
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.csproj.GenerateResource.cache
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.dll
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\refint\22.类的四大成员.dll
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.pdb
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\22.类的四大成员.genruntimeconfig.cache
+D:\GitHub\CSharpTeacher\22.类的四大成员\obj\Debug\net6.0-windows\ref\22.类的四大成员.dll
