@@ -1,0 +1,17 @@
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\bin\Debug\net6.0-windows\24.类成员的访问修饰符.exe
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\bin\Debug\net6.0-windows\24.类成员的访问修饰符.deps.json
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\bin\Debug\net6.0-windows\24.类成员的访问修饰符.runtimeconfig.json
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\bin\Debug\net6.0-windows\24.类成员的访问修饰符.dll
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\bin\Debug\net6.0-windows\24.类成员的访问修饰符.pdb
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\_24.类成员的访问修饰符.Form1.resources
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.csproj.GenerateResource.cache
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.dll
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\refint\24.类成员的访问修饰符.dll
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.pdb
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\24.类成员的访问修饰符.genruntimeconfig.cache
+D:\GitHub\CSharpTeacher\24.类成员的访问修饰符\obj\Debug\net6.0-windows\ref\24.类成员的访问修饰符.dll

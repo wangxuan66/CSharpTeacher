@@ -1,0 +1,17 @@
+D:\GitHub\CSharpTeacher\30.文本框控件详解\bin\Debug\net6.0-windows\30.文本框控件详解.exe
+D:\GitHub\CSharpTeacher\30.文本框控件详解\bin\Debug\net6.0-windows\30.文本框控件详解.deps.json
+D:\GitHub\CSharpTeacher\30.文本框控件详解\bin\Debug\net6.0-windows\30.文本框控件详解.runtimeconfig.json
+D:\GitHub\CSharpTeacher\30.文本框控件详解\bin\Debug\net6.0-windows\30.文本框控件详解.dll
+D:\GitHub\CSharpTeacher\30.文本框控件详解\bin\Debug\net6.0-windows\30.文本框控件详解.pdb
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\_30.文本框控件详解.Form1.resources
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.csproj.GenerateResource.cache
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.dll
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\refint\30.文本框控件详解.dll
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.pdb
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\30.文本框控件详解.genruntimeconfig.cache
+D:\GitHub\CSharpTeacher\30.文本框控件详解\obj\Debug\net6.0-windows\ref\30.文本框控件详解.dll
