@@ -49,9 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.窗口控件常用属性
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28.窗体常用的方法和事件", "..\28.窗体常用的方法和事件\28.窗体常用的方法和事件.csproj", "{BEDD7CD7-A279-4D1A-A93F-5D35A8ED3120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29.按钮控件详解", "..\29.按钮控件详解\29.按钮控件详解.csproj", "{8BDBCDFB-A697-48FF-9787-BE52E8BC316A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29.按钮控件详解", "..\29.按钮控件详解\29.按钮控件详解.csproj", "{8BDBCDFB-A697-48FF-9787-BE52E8BC316A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.文本框控件详解", "..\30.文本框控件详解\30.文本框控件详解.csproj", "{02339EA4-C799-4C17-ADD7-1E5FFCACB086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30.文本框控件详解", "..\30.文本框控件详解\30.文本框控件详解.csproj", "{02339EA4-C799-4C17-ADD7-1E5FFCACB086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.随机数", "..\31.随机数\31.随机数.csproj", "{F1C1BA67-7B37-4F71-B14A-4AD3BEF025DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.根据随即数制作的表白程序", "..\32.根据随即数制作的表白程序\32.根据随即数制作的表白程序.csproj", "{11535554-BF59-4CD6-B7DD-9A9C9A9D9053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{02339EA4-C799-4C17-ADD7-1E5FFCACB086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02339EA4-C799-4C17-ADD7-1E5FFCACB086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02339EA4-C799-4C17-ADD7-1E5FFCACB086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C1BA67-7B37-4F71-B14A-4AD3BEF025DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C1BA67-7B37-4F71-B14A-4AD3BEF025DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C1BA67-7B37-4F71-B14A-4AD3BEF025DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C1BA67-7B37-4F71-B14A-4AD3BEF025DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11535554-BF59-4CD6-B7DD-9A9C9A9D9053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11535554-BF59-4CD6-B7DD-9A9C9A9D9053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11535554-BF59-4CD6-B7DD-9A9C9A9D9053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11535554-BF59-4CD6-B7DD-9A9C9A9D9053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

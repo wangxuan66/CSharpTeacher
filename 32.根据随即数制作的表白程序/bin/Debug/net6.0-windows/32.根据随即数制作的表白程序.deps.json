@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "32.根据随即数制作的表白程序/1.0.0": {
+        "runtime": {
+          "32.根据随即数制作的表白程序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "32.根据随即数制作的表白程序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
