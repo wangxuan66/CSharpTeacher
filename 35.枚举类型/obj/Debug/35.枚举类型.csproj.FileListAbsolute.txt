@@ -1,0 +1,8 @@
+D:\GitHub\CSharpTeacher\35.枚举类型\bin\Debug\35.枚举类型.exe.config
+D:\GitHub\CSharpTeacher\35.枚举类型\bin\Debug\35.枚举类型.exe
+D:\GitHub\CSharpTeacher\35.枚举类型\bin\Debug\35.枚举类型.pdb
+D:\GitHub\CSharpTeacher\35.枚举类型\obj\Debug\35.枚举类型.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\35.枚举类型\obj\Debug\35.枚举类型.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\35.枚举类型\obj\Debug\35.枚举类型.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\35.枚举类型\obj\Debug\35.枚举类型.exe
+D:\GitHub\CSharpTeacher\35.枚举类型\obj\Debug\35.枚举类型.pdb

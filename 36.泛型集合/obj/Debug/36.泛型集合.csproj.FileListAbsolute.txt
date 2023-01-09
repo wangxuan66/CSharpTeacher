@@ -1,0 +1,8 @@
+D:\GitHub\CSharpTeacher\36.泛型集合\bin\Debug\36.泛型集合.exe.config
+D:\GitHub\CSharpTeacher\36.泛型集合\bin\Debug\36.泛型集合.exe
+D:\GitHub\CSharpTeacher\36.泛型集合\bin\Debug\36.泛型集合.pdb
+D:\GitHub\CSharpTeacher\36.泛型集合\obj\Debug\36.泛型集合.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\36.泛型集合\obj\Debug\36.泛型集合.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\36.泛型集合\obj\Debug\36.泛型集合.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\36.泛型集合\obj\Debug\36.泛型集合.exe
+D:\GitHub\CSharpTeacher\36.泛型集合\obj\Debug\36.泛型集合.pdb
