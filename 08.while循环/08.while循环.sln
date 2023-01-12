@@ -65,6 +65,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.枚举类型", "..\35.�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36.泛型集合", "..\36.泛型集合\36.泛型集合.csproj", "{94B3EEF6-37C9-4C83-960C-10FEEAB54D20}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37.遍历集合中的元素", "..\37.遍历集合中的元素\37.遍历集合中的元素.csproj", "{15DF84D9-E395-400A-93E8-FC6923761766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38.下拉框控件的数据绑定", "..\38.下拉框控件的数据绑定\38.下拉框控件的数据绑定.csproj", "{E579FDBA-566F-43C6-A1AF-FE3C3F5D48B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39.列表框控件", "..\39.列表框控件\39.列表框控件.csproj", "{0CBDA800-5503-4491-8617-BB607FCFFA85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +201,18 @@ Global
 		{94B3EEF6-37C9-4C83-960C-10FEEAB54D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94B3EEF6-37C9-4C83-960C-10FEEAB54D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94B3EEF6-37C9-4C83-960C-10FEEAB54D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DF84D9-E395-400A-93E8-FC6923761766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DF84D9-E395-400A-93E8-FC6923761766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DF84D9-E395-400A-93E8-FC6923761766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DF84D9-E395-400A-93E8-FC6923761766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E579FDBA-566F-43C6-A1AF-FE3C3F5D48B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E579FDBA-566F-43C6-A1AF-FE3C3F5D48B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E579FDBA-566F-43C6-A1AF-FE3C3F5D48B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E579FDBA-566F-43C6-A1AF-FE3C3F5D48B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBDA800-5503-4491-8617-BB607FCFFA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBDA800-5503-4491-8617-BB607FCFFA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBDA800-5503-4491-8617-BB607FCFFA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBDA800-5503-4491-8617-BB607FCFFA85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

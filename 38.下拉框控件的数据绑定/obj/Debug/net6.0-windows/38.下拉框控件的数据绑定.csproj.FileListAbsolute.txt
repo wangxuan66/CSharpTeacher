@@ -1,0 +1,17 @@
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\bin\Debug\net6.0-windows\38.下拉框控件的数据绑定.exe
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\bin\Debug\net6.0-windows\38.下拉框控件的数据绑定.deps.json
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\bin\Debug\net6.0-windows\38.下拉框控件的数据绑定.runtimeconfig.json
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\bin\Debug\net6.0-windows\38.下拉框控件的数据绑定.dll
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\bin\Debug\net6.0-windows\38.下拉框控件的数据绑定.pdb
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\_38.下拉框控件的数据绑定.Form1.resources
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.csproj.GenerateResource.cache
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.AssemblyInfoInputs.cache
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.AssemblyInfo.cs
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.dll
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\refint\38.下拉框控件的数据绑定.dll
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.pdb
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\38.下拉框控件的数据绑定.genruntimeconfig.cache
+D:\GitHub\CSharpTeacher\38.下拉框控件的数据绑定\obj\Debug\net6.0-windows\ref\38.下拉框控件的数据绑定.dll

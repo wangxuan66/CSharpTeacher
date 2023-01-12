@@ -1,0 +1,8 @@
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\bin\Debug\34.构建对象的三种方式.exe.config
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\bin\Debug\34.构建对象的三种方式.exe
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\bin\Debug\34.构建对象的三种方式.pdb
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\obj\Debug\34.构建对象的三种方式.csproj.AssemblyReference.cache
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\obj\Debug\34.构建对象的三种方式.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\obj\Debug\34.构建对象的三种方式.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\obj\Debug\34.构建对象的三种方式.exe
+D:\GitHub\CSharpTeacher\34.构建对象的三种方式\obj\Debug\34.构建对象的三种方式.pdb
